@@ -1,0 +1,66 @@
+Disk /dev/loop0: 63.95 MiB, 67051520 bytes, 130960 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop1: 63.45 MiB, 66535424 bytes, 129952 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop2: 67.81 MiB, 71106560 bytes, 138880 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop3: 38.73 MiB, 40615936 bytes, 79328 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop4: 91.83 MiB, 96292864 bytes, 188072 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop5: 53.24 MiB, 55824384 bytes, 109032 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop6: 38.83 MiB, 40714240 bytes, 79520 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop7: 63.95 MiB, 67051520 bytes, 130960 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/sda: 1.75 TiB, 1919716163584 bytes, 3749445632 sectors
+Disk model: PERC H745 Frnt  
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 262144 bytes / 262144 bytes
+Disklabel type: gpt
+Disk identifier: AA498608-A3AC-4EDB-8759-6C4D5CA15D92
+
+Device       Start        End    Sectors  Size Type
+/dev/sda1     2048    2203647    2201600    1G EFI System
+/dev/sda2  2203648    6397951    4194304    2G Linux filesystem
+/dev/sda3  6397952 3749443583 3743045632  1.7T Linux filesystem
+
+
+Disk /dev/dm-0: 1.74 TiB, 1916436217856 bytes, 3743039488 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 262144 bytes / 262144 bytes
